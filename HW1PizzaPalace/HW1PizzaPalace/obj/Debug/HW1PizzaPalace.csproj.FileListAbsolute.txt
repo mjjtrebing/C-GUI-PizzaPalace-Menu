@@ -1,0 +1,10 @@
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\bin\Debug\HW1PizzaPalace.exe.config
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\bin\Debug\HW1PizzaPalace.exe
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\bin\Debug\HW1PizzaPalace.pdb
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\obj\Debug\HW1PizzaPalace.csprojAssemblyReference.cache
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\obj\Debug\HW1PizzaPalace.Properties.Resources.resources
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\obj\Debug\HW1PizzaPalace.csproj.GenerateResource.cache
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\obj\Debug\HW1PizzaPalace.csproj.CoreCompileInputs.cache
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\obj\Debug\HW1PizzaPalace.exe
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\obj\Debug\HW1PizzaPalace.pdb
+C:\Users\mjjtr\Desktop\VS workspace\HW1PizzaPalace\HW1PizzaPalace\obj\Debug\HW1PizzaPalace.pizzaPalace.resources
